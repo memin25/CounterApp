@@ -19,7 +19,7 @@ function App() {
           <div className='footer-content'>
             <p>&copy; 2024 Conter App</p>
             <nav>
-              <a href="https://github.com/aasmaa01" target='_blank' rel='nooperrer noreferrer'>GitHub</a>
+              <a href="https://github.com/memin25" target='_blank' rel='nooperrer noreferrer'>GitHub</a>
             </nav>
           </div>
         </div>
